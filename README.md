@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mark Shi
+## Hey 👋, I'm Mark Shi.
 
 <!--
 **Tron1127/Tron1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
