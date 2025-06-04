@@ -3,7 +3,7 @@
 
 ---
 Feel free to contact me @
-```shiyehua28@gmail.com``` ， ``` 1155166876@link.cuhk.edu.hk ```， if we share common research interests.
+```shiyehua28@gmail.com``` ， ``` 1155166876@link.cuhk.edu.hk ``` ， if we share common research interests.
 
 
 
