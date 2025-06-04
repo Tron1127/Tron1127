@@ -2,9 +2,8 @@
 
 
 ---
-Feel free to contact me @
-```shiyehua28@gmail.com``` ， ``` 1155166876@link.cuhk.edu.hk ``` ， if we share common research interests.
-
+If we share ___common research interests___, feel free to contact me @
+[shiyehua28@gmail.com](shiyehua28@gmail.com)  和[1155166876@link.cuhk.edu.hk](1155166876@link.cuhk.edu.hk)
 
 
 
