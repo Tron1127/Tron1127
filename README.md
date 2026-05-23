@@ -3,9 +3,9 @@
 
 
 
- #### **Biomedical AI Engineer | EEG / XR Research Engineer | Medical Device & Neurorehabilitation Enthusiast**
+ #### **Biomedical AI Researcher | EEG / XR Research Engineer | Neurorehabilitation & Medical Device Enthusiast**
 
-- I am a Biomedical Engineering researcher and AI engineer with hands-on experience in **deep learning for healthcare and medical device applications**, **EEG signal processing**, **VR/AR-based rehabilitation**, **Brain-Computer interfaces**.
+- I am a Biomedical Engineering researcher and AI engineer with hands-on experience in **deep learning for healthcare and medical device applications**, **EEG signal processing**, **VR/AR-based rehabilitation**, and **Brain-Computer interfaces**.
 
 - My work focuses on building practical, clinically meaningful technologies that connect **AI & neuroscience, rehabilitation engineering and immersive interaction systems**.
 
@@ -13,11 +13,11 @@
 
 ## 🧠 About Me
 
-- 🎓 **MSc in Biomedical Engineering**, The Chinese University of Hong Kong(CUHK)
-- 🎓 **BEng in Biomedical Engineering**, Southern University of Science and Technology (SUSTech) 
+- 🎓 **MSc in Biomedical Engineering**, The Chinese University of Hong Kong **(CUHK)**
+- 🎓 **BEng in Biomedical Engineering**, Southern University of Science and Technology **(SUSTech)**
 - 🧪 Research experience in **Medical AI Agents**, **EEG, VR/AR rehabilitation**, and **neurorehabilitation robotics**
 - 🏥 Experience with biosignal processing, clinical-oriented rehabilitation systems and biomedical device workflows in hospitals, rehabilitation centers and labs.
-- 🏅 Silver Medal, **48th International Exhibition of Inventions of Geneva**
+- 🏅 **Silver Medal, 48th International Exhibition of Inventions of Geneva(IEIG)**
 - 🔬 Currently interested in **medical AI agents**, **EEG foundation models**, **multimodal healthcare AI**, and **AI-driven rehabilitation systems**
 
 ---
