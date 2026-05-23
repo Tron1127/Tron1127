@@ -17,7 +17,7 @@
 - 🎓 **BEng in Biomedical Engineering**, Southern University of Science and Technology **(SUSTech)**
 - 🧪 Research experience in **Medical AI Agents**, **EEG, VR/AR rehabilitation**, and **neurorehabilitation robotics**
 - 🏥 Experience with biosignal processing, clinical-oriented rehabilitation systems and biomedical device workflows in hospitals, rehabilitation centers and labs.
-- 🏅 **Silver Medal, 48th International Exhibition of Inventions of Geneva(IEIG)**
+- 🏅 **Silver Medal, 48th International Exhibition of Inventions of Geneva (IEIG)**
 - 🔬 Currently interested in **medical AI agents**, **EEG foundation models**, **multimodal healthcare AI**, and **AI-driven rehabilitation systems**
 ---
 
