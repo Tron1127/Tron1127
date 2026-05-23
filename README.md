@@ -3,11 +3,11 @@
 
 
 
-**Biomedical AI Engineer | EEG / BCI / XR Research Engineer | Medical Device & Neurorehabilitation Enthusiast**
+ #### **Biomedical AI Engineer | EEG / XR Research Engineer | Medical Device & Neurorehabilitation Enthusiast**
 
-I am a Biomedical Engineering researcher and AI engineer with hands-on experience in **EEG signal processing**, **VR/AR-based rehabilitation**, **brain-computer interfaces**, **medical device systems**, 和 **deep learning for healthcare applications**
+- I am a Biomedical Engineering researcher and AI engineer with hands-on experience in **deep learning for healthcare and medical device applications**, **EEG signal processing**, **VR/AR-based rehabilitation**, **Brain-Computer interfaces**.
 
-My work focuses on building practical, clinically meaningful technologies that connect **neuroscience, rehabilitation engineering, AI, and immersive interaction systems**.
+- My work focuses on building practical, clinically meaningful technologies that connect **AI & neuroscience, rehabilitation engineering and immersive interaction systems**.
 
 ---
 
@@ -15,8 +15,8 @@ My work focuses on building practical, clinically meaningful technologies that c
 
 - 🎓 **MSc in Biomedical Engineering**, The Chinese University of Hong Kong(CUHK)
 - 🎓 **BEng in Biomedical Engineering**, Southern University of Science and Technology (SUSTech) 
-- 🧪 Research experience in **EEG**, **VR/AR rehabilitation**, **auditory-visual perception**, and **neurorehabilitation robotics**
-- 🏥 Experience with clinical-oriented rehabilitation systems and biomedical device workflows
+- 🧪 Research experience in **Medical AI Agents**, **EEG, VR/AR rehabilitation**, and **neurorehabilitation robotics**
+- 🏥 Experience with biosignal processing, clinical-oriented rehabilitation systems and biomedical device workflows in hospitals, rehabilitation centers and labs.
 - 🏅 Silver Medal, **48th International Exhibition of Inventions of Geneva**
 - 🔬 Currently interested in **medical AI agents**, **EEG foundation models**, **multimodal healthcare AI**, and **AI-driven rehabilitation systems**
 
