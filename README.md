@@ -3,7 +3,7 @@
 
 
 
- #### **Biomedical AI Researcher | EEG / XR Research Engineer | Neurorehabilitation & Medical Device Enthusiast**
+ ####  **Biomedical AI Researcher | EEG / XR Research Engineer | Neurorehabilitation & Medical Device Enthusiast**
 
 - I am a Biomedical Engineering researcher and AI engineer with hands-on experience in **deep learning for healthcare and medical device applications**, **EEG signal processing**, **VR/AR-based rehabilitation**, and **Brain-Computer interfaces**.
 
@@ -24,6 +24,14 @@
 
 ## 🔬 Research & Engineering Interests
 
+### 🤖 Medical AI & Healthcare Engineering
+- Biomedical signal processing
+- Medical image and time-series analysis
+- AI model training pipelines with PyTorch
+- Data cleaning, feature engineering, and model evaluation
+- Healthcare AI agents and clinical workflow automation
+- Medical device troubleshooting, system integration, and service engineering
+
 ### 🧠 EEG / BCI / Neural Signal Processing
 - EEG preprocessing with **EEGLAB / MATLAB**
 - ERP, ERSP, spectral and time-frequency analysis
@@ -39,13 +47,6 @@
 - Unity-based interactive rehabilitation game development
 - Motion tracking with HTC Vive, Kinect, Azure Kinect, Orbbec, and RealSense
 
-### 🤖 Medical AI & Healthcare Engineering
-- Biomedical signal processing
-- Medical image and time-series analysis
-- AI model training pipelines with PyTorch
-- Data cleaning, feature engineering, and model evaluation
-- Healthcare AI agents and clinical workflow automation
-- Medical device troubleshooting, system integration, and service engineering
 
 ---
 
@@ -77,116 +78,6 @@
 
 ---
 
-## 🚀 Featured Project Directions
-
-### 1. EEG Signal Processing Pipeline
-A reproducible EEG analysis workflow covering:
-
-- `.cnt` / `.set` data loading
-- Channel editing and re-referencing
-- Band-pass and notch filtering
-- ICA decomposition
-- ICLabel-based artifact removal
-- Epoching, baseline correction, ERP and ERSP analysis
-- Exporting ROI features to Excel for statistical analysis
-
-**Keywords:** EEG, EEGLAB, ERP, ERSP, ICA, ICLabel, MATLAB
-
----
-
-### 2. VR-Based Upper Limb Rehabilitation System
-A Unity-based rehabilitation training game for upper-limb motor recovery.
-
-Main features:
-
-- Multi-scene rehabilitation task design
-- Progressive training difficulty
-- Traditional rehabilitation trajectory integration
-- HTC Vive-based interactive motion tracking
-- User testing and movement data analysis
-
-**Keywords:** VR rehabilitation, Unity, C#, HTC Vive, motor recovery
-
----
-
-### 3. Auditory-Visual EEG Attention Experiment
-An EEG experiment investigating how the human brain focuses on target sounds under interfering auditory conditions.
-
-Main components:
-
-- Auditory and visual stimulus design
-- E-Prime-based experimental control
-- EEG trigger synchronization
-- Behavioral response collection
-- ERP and time-frequency analysis
-- Deep learning exploration for EEG classification
-
-**Keywords:** EEG, auditory attention, E-Prime, ERP, time-frequency analysis, CNN, LSTM
-
----
-
-### 4. Medical AI Model Training Pipeline
-Healthcare-oriented AI workflows for biomedical data analysis.
-
-Main components:
-
-- Data cleaning and preprocessing
-- Feature engineering
-- PyTorch model training
-- Loss function comparison
-- Model evaluation and visualization
-- GPU / CUDA environment troubleshooting
-
-**Keywords:** PyTorch, medical AI, data cleaning, feature engineering, Dice Loss, BCE Loss, Focal Loss, Tversky Loss
-
----
-
-## 📚 Publications & Research Outputs
-
-- **AHFE 2023**  
-  *Is it possible to use Kinect sensor for lying position rehabilitation exercise? Kinect V2 versus Azure Kinect*
-
-- **VR-Based Upper Limb Rehabilitation Training Game**  
-  Bachelor thesis project focused on motor recovery and interactive rehabilitation design.
-
-- **AR Rehabilitation System for Pain Management**  
-  Clinical-oriented AR rehabilitation system involving pain and motor-function assessment scales.
-
----
-
-## 🧩 Selected Skills
-
-- EEG preprocessing and neural signal analysis
-- Biomedical time-series processing
-- VR/AR rehabilitation system development
-- Unity interaction design for rehabilitation
-- Experimental design with E-Prime
-- EEG trigger synchronization and hardware debugging
-- Medical AI model training and evaluation
-- Python automation for audio, Excel, and biomedical data workflows
-- Biomedical device troubleshooting and system integration
-
----
-
-## 📈 GitHub Stats
-
-![Yehua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tron1127&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tron1127&layout=compact)
-
----
-
-## 🌱 Current Learning Focus
-
-- Medical AI agents
-- EEG foundation models
-- Multimodal healthcare AI
-- RAG systems for clinical and biomedical knowledge
-- Dockerized AI deployment
-- GPU optimization for deep learning workflows
-- AI-assisted biomedical research pipelines
-
----
 
 ## 📫 Connect with Me
 
