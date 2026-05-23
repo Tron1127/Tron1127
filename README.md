@@ -5,7 +5,7 @@
 
 **Biomedical AI Engineer | EEG / BCI / XR Research Engineer | Medical Device & Neurorehabilitation Enthusiast**
 
-I am a Biomedical Engineering researcher and AI engineer with hands-on experience in **EEG signal processing**, **VR/AR-based rehabilitation**, **brain-computer interfaces**, **medical device systems**, and **deep learning for healthcare applications**.
+I am a Biomedical Engineering researcher and AI engineer with hands-on experience in **EEG signal processing**, **VR/AR-based rehabilitation**, **brain-computer interfaces**, **medical device systems**, 和 **deep learning for healthcare applications**
 
 My work focuses on building practical, clinically meaningful technologies that connect **neuroscience, rehabilitation engineering, AI, and immersive interaction systems**.
 
@@ -195,10 +195,8 @@ Main components:
 
 ---
 
-> Building intelligent biomedical systems that bridge neuroscience, rehabilitation, and real-world healthcare applications.
-"""
+---
+If we share ___common research interests___, feel free to contact me ___@___
+[shiyehua28@gmail.com](shiyehua28@gmail.com) ，[1155166876@link.cuhk.edu.hk](1155166876@link.cuhk.edu.hk)
 
-path = Path("/mnt/data/GitHub_Profile_README_Yehua_Shi.md")
-path.write_text(content, encoding="utf-8")
-path.as_posix()
 
