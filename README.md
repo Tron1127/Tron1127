@@ -1,19 +1,7 @@
 ## Hey 👋, I'm Mark Shi.
 
 
----
-If we share ___common research interests___, feel free to contact me ___@___
-[shiyehua28@gmail.com](shiyehua28@gmail.com) ，[1155166876@link.cuhk.edu.hk](1155166876@link.cuhk.edu.hk)
 
-
-
-
-
-
-
-from pathlib import Path
-
-content = r"""# Hi there, I'm Yehua Shi 👋
 
 **Biomedical AI Engineer | EEG / BCI / XR Research Engineer | Medical Device & Neurorehabilitation Enthusiast**
 
@@ -25,8 +13,8 @@ My work focuses on building practical, clinically meaningful technologies that c
 
 ## 🧠 About Me
 
-- 🎓 **MSc in Biomedical Engineering**, The Chinese University of Hong Kong  
-- 🎓 **BEng in Biomedical Engineering**, Southern University of Science and Technology  
+- 🎓 **MSc in Biomedical Engineering**, The Chinese University of Hong Kong(CUHK)
+- 🎓 **BEng in Biomedical Engineering**, Southern University of Science and Technology (SUSTech) 
 - 🧪 Research experience in **EEG**, **VR/AR rehabilitation**, **auditory-visual perception**, and **neurorehabilitation robotics**
 - 🏥 Experience with clinical-oriented rehabilitation systems and biomedical device workflows
 - 🏅 Silver Medal, **48th International Exhibition of Inventions of Geneva**
