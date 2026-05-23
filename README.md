@@ -19,6 +19,33 @@
 - 🏥 Experience with biosignal processing, clinical-oriented rehabilitation systems and biomedical device workflows in hospitals, rehabilitation centers and labs.
 - 🏅 **Silver Medal, 48th International Exhibition of Inventions of Geneva(IEIG)**
 - 🔬 Currently interested in **medical AI agents**, **EEG foundation models**, **multimodal healthcare AI**, and **AI-driven rehabilitation systems**
+---
+
+## 🛠️ Tech Stack
+
+### Programming & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+### Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### EEG / Experiment Tools
+![EEGLAB](https://img.shields.io/badge/EEGLAB-EEG%20Analysis-blue?style=flat-square)
+![E--Prime](https://img.shields.io/badge/E--Prime-Experiment%20Design-purple?style=flat-square)
+![NeuroScan](https://img.shields.io/badge/NeuroScan-EEG%20System-orange?style=flat-square)
+
+### Development & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -50,44 +77,11 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
-### Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-### EEG / Experiment Tools
-![EEGLAB](https://img.shields.io/badge/EEGLAB-EEG%20Analysis-blue?style=flat-square)
-![E--Prime](https://img.shields.io/badge/E--Prime-Experiment%20Design-purple?style=flat-square)
-![NeuroScan](https://img.shields.io/badge/NeuroScan-EEG%20System-orange?style=flat-square)
-
-### Development & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
 
 ## 📫 Connect with Me
 
 - GitHub: [github.com/Tron1127](https://github.com/Tron1127)
 - LinkedIn: [Yehua Shi](https://www.linkedin.com/in/yehua-s-443b68269/)
-
----
-
----
-If we share ___common research interests___, feel free to contact me ___@___
-[shiyehua28@gmail.com](shiyehua28@gmail.com) ，[1155166876@link.cuhk.edu.hk](1155166876@link.cuhk.edu.hk)
+- If we share ___common research interests___, feel free to contact me**:** [shiyehua28@gmail.com](shiyehua28@gmail.com) ，[1155166876@link.cuhk.edu.hk](1155166876@link.cuhk.edu.hk)
 
 
