@@ -82,6 +82,6 @@
 
 - GitHub: [github.com/Tron1127](https://github.com/Tron1127)
 - LinkedIn: [Yehua Shi](https://www.linkedin.com/in/yehua-s-443b68269/)
-- If we share ___common research interests___, feel free to contact me**:** [shiyehua28@gmail.com](shiyehua28@gmail.com) ，[1155166876@link.cuhk.edu.hk](1155166876@link.cuhk.edu.hk)
+- If we share ___common research interests___, feel free to contact me **:** [shiyehua28@gmail.com](shiyehua28@gmail.com) ，[1155166876@link.cuhk.edu.hk](1155166876@link.cuhk.edu.hk)
 
 
