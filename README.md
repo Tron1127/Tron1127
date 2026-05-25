@@ -80,7 +80,7 @@
 
 ## 📫 Connect with Me
 
-- GitHub: [GitHub.com/Tron1127](https://github.com/Tron1127)
+- GitHub: [GitHub/Tron1127](https://github.com/Tron1127)
 - LinkedIn: [Shi Yehua](https://www.linkedin.com/in/yehua-s-443b68269/)
 - If we share ***common research interests***, feel free to contact me **:** [shiyehua28@gmail.com](shiyehua28@gmail.com), [1155166876@link.cuhk.edu.hk](1155166876@link.cuhk.edu.hk)
 
